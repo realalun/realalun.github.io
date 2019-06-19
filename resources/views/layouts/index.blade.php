@@ -45,11 +45,11 @@
 
   <!-- sidenav -->
   <ul class="sidenav" id="mobile-nav">
-    <li><a href="">About Us</a></li>
-    <li><a href="">Clients</a></li>
-    <li><a href="">Services</a></li>
-    <li><a href="">Portolio</a></li>
-    <li><a href="">Contact Us</a></li>
+    <li><a href="#about">About Us</a></li>
+    <li><a href="#clients">Clients</a></li>
+    <li><a href="services">Services</a></li>
+    <li><a href="portfolio">Portolio</a></li>
+    <li><a href="contact">Contact Us</a></li>
   </ul>
 
   <!-- slider -->
