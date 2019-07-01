@@ -214,19 +214,19 @@
 
     <div class="row">
 
-      <div class="col m3 s6">
+      <div class="col m3 s12">
         <img src="img/portfolio/1.jpg" class="responsive-img materialboxed" data-caption="Foto kolase balon">
       </div>
 
-      <div class="col m3 s6">
+      <div class="col m3 s12">
         <img src="img/portfolio/2.jpg" class="responsive-img materialboxed" data-caption="Balon gate">
       </div>
 
-      <div class="col m3 s6">
+      <div class="col m3 s12">
         <img src="img/portfolio/3.jpg" class="responsive-img materialboxed" data-caption="Balon model botol oli yamalube">
       </div>
 
-      <div class="col m3 s6">
+      <div class="col m3 s12">
         <img src="img/portfolio/4.jpg" class="responsive-img materialboxed" data-caption="Balon tepuk event BRI">
       </div>
 
@@ -234,19 +234,19 @@
 
     <div class="row">
 
-      <div class="col m3 s6">
+      <div class="col m3 s12">
         <img src="img/portfolio/9.jpg" class="responsive-img materialboxed" data-caption="Balon udara grab">
       </div>
 
-      <div class="col m3 s6">
+      <div class="col m3 s12">
         <img src="img/portfolio/10.jpg" class="responsive-img materialboxed" data-caption="Balon Dekorasi HUT RI 73th">
       </div>
 
-      <div class="col m3 s6">
+      <div class="col m3 s12">
         <img src="img/portfolio/1.jpg" class="responsive-img materialboxed" data-caption="Foto Kolase">
       </div>
 
-      <div class="col m3 s6">
+      <div class="col m3 s12">
         <img src="img/portfolio/12.jpg" class="responsive-img materialboxed" data-caption="Balon model milo">
       </div>
 
@@ -255,19 +255,19 @@
 
     <div class="row">
 
-      <div class="col m3 s6">
+      <div class="col m3 s12">
         <img src="img/portfolio/5.jpg" class="responsive-img materialboxed" data-caption="Balon Dekorasi">
       </div>
 
-      <div class="col m3 s6">
+      <div class="col m3 s12">
         <img src="img/portfolio/6.jpg" class="responsive-img materialboxed" data-caption="Balon Udara Shcneider">
       </div>
 
-      <div class="col m3 s6">
+      <div class="col m3 s12">
         <img src="img/portfolio/7.jpg" class="responsive-img materialboxed" data-caption="Balon LED">
       </div>
 
-      <div class="col m3 s6">
+      <div class="col m3 s12">
         <img src="img/portfolio/8.jpg" class="responsive-img materialboxed" data-caption="Balon udara bank BRI">
       </div>
 

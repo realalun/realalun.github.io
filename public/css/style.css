@@ -28,6 +28,10 @@ section, footer {
 }
 
 .sidenav {
-	width: 10%;
+	width: 30%;
+}
+
+.brand-logo {
+	text-align: center;
 }
 
