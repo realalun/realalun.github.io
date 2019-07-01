@@ -302,7 +302,7 @@
         <form method="post" action="{{ url('/submit')}}">
           {{ csrf_field() }}
           <div class="card-panel">
-            <h5>Please Fill Out This Form</h5>
+            <h5>Send Us Message</h5>
             <div class="input-field">
               <input type="text" name="name" id="name" required class="validate">
               <label for="name">Name</label>
